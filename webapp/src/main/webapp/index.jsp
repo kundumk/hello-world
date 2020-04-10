@@ -3,3 +3,4 @@
 <h2> CEO - Ms Tannistha Kundu </h2>
 <h2> CIO and CFO - Mrs Santwana Kundu </h2>
 <h2> SME - Mr Mrityunjoy Kundu </h2>
+<h3> Your goal is our motto </h3>
